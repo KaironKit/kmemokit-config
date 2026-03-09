@@ -1,45 +1,79 @@
-K-ASSIST Custom License v1.0
+K-ASSIST 사용자 라이선스
 
-Copyright (c) 2026 강진영
+Copyright © 2026 강진영. All rights reserved.
+이용허락 문의: iron_writer91@naver.com
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated files (the "Software"), to use, copy, and
-redistribute the Software, subject to the following conditions:
+본 소프트웨어 및 이에 수반되는 모든 관련 파일(이하 “소프트웨어”)은 저작권법의 보호를 받습니다.
+본 라이선스는 사용자에게 제한적인 사용권만을 부여하며, 소프트웨어에 대한 소유권 또는
+복제, 배포, 수정 등 별도의 권한을 부여하는 것은 아닙니다.
 
-1. The Software may be used by any person for personal or non-commercial purposes.
-2. The Software may be copied and redistributed in unmodified form.
-3. Commercial use of the Software is prohibited.
-4. Modification, alteration, adaptation, translation, reverse engineering for
-   redistribution, or creation of derivative works based on the Software is prohibited.
-5. This copyright notice and license text must be included in all copies or
-   redistributions of the Software.
-6. The author reserves all rights not expressly granted by this license.
+제1조 (사용권)
+사용자는 본 소프트웨어를 개인적 또는 비상업적 목적에 한하여 설치 및 사용할 수 있습니다.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN
-ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+제2조 (복제 및 배포 제한)
+본 소프트웨어의 전부 또는 일부를 복제, 배포, 재배포, 공유, 전송, 게시하거나
+기타 방식으로 제3자에게 제공하려는 경우, 반드시 저작자의 사전 서면 허가를 받아야 합니다.
 
-K-ASSIST 사용자 정의 라이선스 v1.0
+제3조 (금지 사항)
+저작자의 사전 서면 허가 없이 다음 각 호의 행위를 할 수 없습니다.
 
-저작권 (c) 2026 강진영
+1. 본 소프트웨어의 상업적 이용
+2. 본 소프트웨어의 복제, 배포, 재배포, 판매, 양도 또는 공유
+3. 본 소프트웨어의 수정, 변경, 개작, 번역
+4. 본 소프트웨어의 리버스 엔지니어링, 디컴파일, 디스어셈블 또는 구조 분석
+5. 본 소프트웨어를 기반으로 한 2차적 저작물의 제작, 배포 또는 공개
 
-본 소프트웨어 및 관련 파일(이하 "소프트웨어")의 사본을 취득한 모든 사람에게,
-아래 조건에 따라 본 소프트웨어를 사용하고, 복사하며, 재배포할 수 있는 권한을
-무상으로 부여합니다.
+제4조 (권리 유보)
+본 라이선스에서 명시적으로 허용되지 않은 모든 권리는 저작자에게 유보됩니다.
 
-1. 본 소프트웨어는 개인적 또는 비상업적 목적에 한하여 누구나 사용할 수 있습니다.
-2. 본 소프트웨어는 원본 그대로의 형태로 복사 및 재배포할 수 있습니다.
-3. 본 소프트웨어의 상업적 이용은 금지됩니다.
-4. 재배포를 위한 수정, 변경, 개작, 번역, 리버스 엔지니어링 또는
-   본 소프트웨어를 기반으로 한 2차적 저작물의 생성은 금지됩니다.
-5. 본 저작권 표시 및 라이선스 전문은 모든 복사본 또는 재배포본에 포함되어야 합니다.
-6. 이 라이선스에서 명시적으로 부여되지 않은 모든 권리는 저작자가 보유합니다.
+제5조 (보증의 부인)
+본 소프트웨어는 “있는 그대로(AS IS)” 제공됩니다.
+저작자는 본 소프트웨어와 관련하여 상품성, 특정 목적에의 적합성, 비침해성을 포함하되
+이에 한정되지 않는 어떠한 명시적 또는 묵시적 보증도 하지 않습니다.
 
-본 소프트웨어는 "있는 그대로(AS IS)" 제공되며, 상품성, 특정 목적에의 적합성,
-비침해성에 대한 보증을 포함하되 이에 한정되지 않는 어떠한 명시적 또는 묵시적
-보증도 제공하지 않습니다. 어떠한 경우에도 저작자는 본 소프트웨어 또는 그 사용
-또는 기타 취급과 관련하여 발생하는 모든 청구, 손해 또는 기타 책임에 대하여,
-계약, 불법행위 또는 그 밖의 법적 근거 여부와 관계없이 책임을 지지 않습니다.
+제6조 (책임의 제한)
+저작자는 본 소프트웨어의 사용, 사용 불능 또는 기타 취급과 관련하여 발생하는
+직접적, 간접적, 부수적, 특별 또는 결과적 손해를 포함한 어떠한 손해나 책임에 대해서도
+책임을 지지 않습니다. 이는 계약, 불법행위 또는 기타 법적 근거 여부와 관계없이 적용됩니다.
+
+
+K-ASSIST User License
+
+Copyright © 2026 Jinyeong Kang. All rights reserved.
+License inquiries: iron_writer91@naver.com
+
+This software and all accompanying related files (hereinafter referred to as the “Software”)
+are protected by copyright law.
+This License grants the user only a limited right to use the Software and does not grant
+ownership of the Software or any separate rights to copy, distribute, modify, or otherwise exploit it.
+
+Article 1 (Grant of Use)
+The user may install and use the Software solely for personal or non-commercial purposes.
+
+Article 2 (Restriction on Copying and Distribution)
+Any copying, distribution, redistribution, sharing, transmission, posting, or any other provision
+of all or part of the Software to a third party requires the prior written permission of the author.
+
+Article 3 (Prohibited Acts)
+Without the prior written permission of the author, the following acts are prohibited:
+
+1. Commercial use of the Software
+2. Copying, distribution, redistribution, sale, transfer, or sharing of the Software
+3. Modification, alteration, adaptation, or translation of the Software
+4. Reverse engineering, decompilation, disassembly, or structural analysis of the Software
+5. Creation, distribution, or publication of derivative works based on the Software
+
+Article 4 (Reservation of Rights)
+All rights not expressly granted under this License are reserved by the author.
+
+Article 5 (Disclaimer of Warranty)
+The Software is provided “AS IS”.
+The author makes no express or implied warranties of any kind regarding the Software,
+including but not limited to warranties of merchantability, fitness for a particular purpose,
+and non-infringement.
+
+Article 6 (Limitation of Liability)
+The author shall not be liable for any damages or liabilities arising from the use,
+inability to use, or other handling of the Software, including but not limited to direct,
+indirect, incidental, special, or consequential damages, regardless of whether such liability
+is based on contract, tort, or any other legal theory.
