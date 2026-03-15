@@ -1,43 +1,6 @@
 # K-ASSIST Installer Return Codes
 
-This page explains the installer return codes used by **K-ASSIST Setup**.
-
-## Standard Return Codes
-
-### 0
-Installation completed successfully.
-
-### 1
-The installer failed to initialize.
-
-### 2
-The user canceled the installation before it started.
-
-### 3
-A fatal error occurred before the installation process began.
-
-### 4
-A fatal error occurred during installation.
-
-### 5
-The user canceled the installation during setup.
-
-## Notes
-
-- K-ASSIST uses an EXE installer built with Inno Setup.
-- If installation fails, please close any running instance of K-ASSIST and try again.
-- Make sure enough disk space is available before retrying.
-- Restarting Windows may help if another process is blocking installation.
-
-## Support
-
-Developer: Jinyeong Kang  
-Email: iron_writer91@naver.com  
-Support page: https://blog.naver.com/iron_writer
-
-# K-ASSIST Installer Return Codes
-
-This page explains the installer return codes used by **K-ASSIST Setup**.
+This page explains the installer return codes used by K-ASSIST Setup.
 
 ## English
 
@@ -84,10 +47,10 @@ The user canceled the installation during setup.
 - K-ASSIST는 Inno Setup 기반 EXE 설치 프로그램을 사용합니다.
 - 설치가 실패하면 실행 중인 K-ASSIST를 모두 종료한 뒤 다시 시도해 주세요.
 - 디스크 여유 공간이 충분한지 확인해 주세요.
-- 다른 프로세스가 설치를 막는 경우 Windows 재부팅 후 다시 시도해 주세요.
+- 다른 프로세스가 설치를 막는 경우 Windows를 다시 시작한 뒤 다시 시도해 주세요.
 
 ## Support
 
 Developer: Jinyeong Kang  
-Email: iron_writer91@naver.com  
+Email: rkdwls151@gmail.com
 Support page: https://blog.naver.com/iron_writer
