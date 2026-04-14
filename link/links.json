@@ -1,10 +1,10 @@
 {
-  "intro_url": "https://kaironkit.github.io/home/#home",
-  "support_url": "https://kaironkit.github.io/home/#support",
-  "install_url": "https://kaironkit.github.io/home/#download",
-  "update_url": "https://kaironkit.github.io/home/#download",
-  "Question_url": "https://kaironkit.com/",
-  "Manual_url": "https://kaironkit.com/",
-  "ad1_url": "https://kaironkit.github.io/home/",
-  "ad2_url": "https://kaironkit.github.io/home/"
+  "intro_url": "https://kaironkit.com",
+  "support_url": "https://kaironkit.com",
+  "install_url": "https://kaironkit.com",
+  "update_url": "https://kaironkit.com",
+  "Question_url": "https://kaironkit.com",
+  "Manual_url": "https://kaironkit.com",
+  "ad1_url": "",
+  "ad2_url": ""
 }
