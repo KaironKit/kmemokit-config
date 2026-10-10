@@ -1,7 +1,7 @@
 
 {
   "free_access": {
-    "plus": false,
-    "remove_ads": false
+    "plus": true,
+    "remove_ads": true
   }
 }
