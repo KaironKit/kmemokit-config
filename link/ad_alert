@@ -1,2 +1,42 @@
-"99:99","한국어","곧 점심시간입니다^0^","English","Take a coffee break!","日本語","もうすぐお昼休みです^0^","ad_image_1_1","ad_image_1_2","ad_sound_1","ad1_url"
-"99:99","한국어","곧 퇴근시간입니다^0^","English","Take a coffee break!","日本語","もうすぐ退勤時間です^0^","ad_image_1_1","ad_image_1_2","ad_sound_1","ad1_url"
+{
+  "alerts": [
+    {
+      "name": "점심 알림",
+      "enabled": false,
+      "time": "12:00",
+      "messages": {
+        "한국어": "곧 점심시간입니다^0^",
+        "English": "It's almost lunchtime ^0^",
+        "日本語": "もうすぐお昼休みです^0^",
+        "Bahasa Indonesia": "Sebentar lagi waktunya makan siang ^0^",
+        "简体中文": "快到午餐时间了^0^",
+        "繁體中文": "快到午餐時間了^0^",
+        "Español": "¡Ya casi es hora de almorzar! ^0^",
+        "Português (Brasil)": "Está quase na hora do almoço! ^0^"
+      },
+      "image": "ad_image_1_1",
+      "hoverImage": "ad_image_1_2",
+      "sound": "ad_sound_1",
+      "link": "ad1_url"
+    },
+    {
+      "name": "퇴근 알림",
+      "enabled": false,
+      "time": "18:00",
+      "messages": {
+        "한국어": "곧 퇴근시간입니다^0^",
+        "English": "It's almost time to leave work ^0^",
+        "日本語": "もうすぐ退勤時間です^0^",
+        "Bahasa Indonesia": "Sebentar lagi waktunya pulang kerja ^0^",
+        "简体中文": "快到下班时间了^0^",
+        "繁體中文": "快到下班時間了^0^",
+        "Español": "¡Ya casi es hora de salir del trabajo! ^0^",
+        "Português (Brasil)": "Está quase na hora de sair do trabalho! ^0^"
+      },
+      "image": "ad_image_1_1",
+      "hoverImage": "ad_image_1_2",
+      "sound": "ad_sound_1",
+      "link": "ad1_url"
+    }
+  ]
+}
