@@ -1,23 +1,50 @@
 {
-  "version": "2.1.5.0",
-  "titles": {
-    "한국어": "K-MemoKit 2.1.5.0 업데이트 안내",
-    "English": "K-MemoKit 2.1.5.0 Update",
-    "日本語": "K-MemoKit 2.1.5.0 アップデートのお知らせ",
-    "Bahasa Indonesia": "Pembaruan K-MemoKit 2.1.5.0",
-    "简体中文": "K-MemoKit 2.1.5.0 更新说明",
-    "繁體中文": "K-MemoKit 2.1.5.0 更新說明",
-    "Español": "Actualización de K-MemoKit 2.1.5.0",
-    "Português (Brasil)": "Atualização do K-MemoKit 2.1.5.0"
-  },
-  "contents": {
-    "한국어": "안녕하세요!\nK-MemoKit을 이용해 주셔서 감사합니다.\n이번 업데이트에서는 창 전환과 데이터 보호를 개선했습니다.\n\n1. 창 전환 개선\n항상 위에 있는 메인 창에서도 미니메모가 선택된 상태를 유지하며 열립니다.\n\n2. 데이터 호환성 보호\n더 최신 버전에서 만든 저장 형식을 감지하면 덮어쓰기를 막고 원본 파일을 보존합니다.\n\n3. 백업과 복원 개선\n대시보드 배치와 사용 이력, 저장 관리 설정이 휴대 백업에 포함되며 복원 후 반영됩니다.\n\n4. 일정 창 성능 개선\n일정 카드가 많은 주간·월간 창의 크기 변경 작업을 줄였습니다.\n\n문의: kaironkit@gmail.com",
-    "English": "Hello!\nThank you for using K-MemoKit.\nThis update improves window switching and data protection.\n\n1. Window switching\nMini memos keep their selection when opened from an always-on-top main window.\n\n2. Data compatibility protection\nStorage formats from newer app versions are detected and preserved without being overwritten.\n\n3. Backup and restore\nPortable backups now include dashboard layout, usage history, and storage preferences. Restored settings are reloaded.\n\n4. Schedule window performance\nWe reduced layout work while resizing weekly and monthly windows with many schedule cards.\n\nContact: kaironkit@gmail.com",
-    "日本語": "こんにちは！\nK-MemoKitをご利用いただきありがとうございます。\nウィンドウの切り替えとデータ保護を改善しました。\n\n1. ウィンドウの切り替え\nメイン画面が常に最前面でも、ミニメモを選択した状態で開けます。\n\n2. データ互換性の保護\n新しいアプリのバージョンで作られた保存形式を検出し、上書きせずに元のファイルを保持します。\n\n3. バックアップと復元\nダッシュボードの配置、使用履歴、保存先の設定をポータブルバックアップに含め、復元後に読み込み直します。\n\n4. 予定画面の性能\n予定カードが多い週・月表示のサイズ変更時に、レイアウト処理を減らしました。\n\nお問い合わせ: kaironkit@gmail.com",
-    "Bahasa Indonesia": "Halo!\nTerima kasih telah menggunakan K-MemoKit.\nPembaruan ini meningkatkan pergantian jendela dan perlindungan data.\n\n1. Pergantian jendela\nMemo mini tetap dipilih saat dibuka dari jendela utama yang selalu di atas.\n\n2. Perlindungan kompatibilitas data\nFormat penyimpanan dari versi aplikasi yang lebih baru dideteksi dan dipertahankan tanpa ditimpa.\n\n3. Pencadangan dan pemulihan\nCadangan portabel kini mencakup tata letak dasbor, riwayat penggunaan, dan preferensi penyimpanan. Pengaturan dimuat ulang setelah dipulihkan.\n\n4. Kinerja jendela jadwal\nKami mengurangi proses tata letak saat mengubah ukuran tampilan mingguan dan bulanan dengan banyak kartu jadwal.\n\nKontak: kaironkit@gmail.com",
-    "简体中文": "您好！\n感谢您使用 K-MemoKit。\n本次更新改进了窗口切换和数据保护。\n\n1. 窗口切换\n即使主窗口始终置顶，打开便笺时也会保持便笺处于选中状态。\n\n2. 数据兼容性保护\n检测到由较新版本应用创建的存储格式时，会阻止覆盖并保留原始文件。\n\n3. 备份与还原\n便携式备份现在包含仪表板布局、使用记录和存储设置，还原后会重新加载这些设置。\n\n4. 日程窗口性能\n在调整包含大量日程卡片的周视图和月视图窗口大小时，减少了布局处理。\n\n联系邮箱：kaironkit@gmail.com",
-    "繁體中文": "您好！\n感謝您使用 K-MemoKit。\n本次更新改善了視窗切換和資料保護。\n\n1. 視窗切換\n即使主視窗一律置頂，開啟便利貼時也會保持便利貼處於選取狀態。\n\n2. 資料相容性保護\n偵測到由較新版本應用程式建立的儲存格式時，會阻止覆寫並保留原始檔案。\n\n3. 備份與還原\n可攜式備份現在包含儀表板配置、使用紀錄和儲存設定，還原後會重新載入這些設定。\n\n4. 行程視窗效能\n調整含有大量行程卡片的週檢視和月檢視視窗大小時，減少了版面配置處理。\n\n聯絡信箱：kaironkit@gmail.com",
-    "Español": "¡Hola!\nGracias por usar K-MemoKit.\nEsta actualización mejora el cambio de ventanas y la protección de datos.\n\n1. Cambio de ventanas\nLas notas pequeñas conservan la selección al abrirse desde la ventana principal, incluso si esta permanece siempre visible.\n\n2. Protección de compatibilidad de datos\nSe detectan los formatos de almacenamiento creados por versiones más recientes de la aplicación y se conservan los archivos originales sin sobrescribirlos.\n\n3. Copia de seguridad y restauración\nLas copias de seguridad portátiles ahora incluyen la distribución del panel, el historial de uso y las preferencias de almacenamiento. La configuración se vuelve a cargar al restaurarla.\n\n4. Rendimiento de la ventana de agenda\nSe ha reducido el trabajo de diseño al cambiar el tamaño de las vistas semanales y mensuales con muchas tarjetas de eventos.\n\nContacto: kaironkit@gmail.com",
-    "Português (Brasil)": "Olá!\nObrigado por usar o K-MemoKit.\nEsta atualização melhora a alternância entre janelas e a proteção de dados.\n\n1. Alternância entre janelas\nAs notas pequenas mantêm a seleção ao serem abertas a partir da janela principal, mesmo quando ela está sempre visível.\n\n2. Proteção da compatibilidade de dados\nFormatos de armazenamento criados por versões mais recentes do aplicativo são detectados, e os arquivos originais são preservados sem serem sobrescritos.\n\n3. Backup e restauração\nOs backups portáteis agora incluem a disposição do painel, o histórico de uso e as preferências de armazenamento. As configurações são recarregadas após a restauração.\n\n4. Desempenho da janela de agenda\nReduzimos o processamento de layout ao redimensionar as visualizações semanais e mensais com muitos cartões de eventos.\n\nContato: kaironkit@gmail.com"
-  }
+  "versions": [
+    {
+      "version": "2.1.5.0",
+      "titles": {
+        "한국어": "K-MemoKit 2.1.5.0 업데이트 안내",
+        "English": "K-MemoKit 2.1.5.0 Update",
+        "日本語": "K-MemoKit 2.1.5.0 アップデートのお知らせ",
+        "Bahasa Indonesia": "Pembaruan K-MemoKit 2.1.5.0",
+        "简体中文": "K-MemoKit 2.1.5.0 更新说明",
+        "繁體中文": "K-MemoKit 2.1.5.0 更新說明",
+        "Español": "Actualización de K-MemoKit 2.1.5.0",
+        "Português (Brasil)": "Atualização do K-MemoKit 2.1.5.0"
+      },
+      "contents": {
+        "한국어": "안녕하세요!\nK-MemoKit을 이용해 주셔서 감사합니다.\n이번 업데이트에서는 창 전환과 데이터 보호를 개선했습니다.\n\n1. 창 전환 개선\n항상 위에 있는 메인 창에서도 미니메모가 선택된 상태를 유지하며 열립니다.\n\n2. 데이터 호환성 보호\n더 최신 버전에서 만든 저장 형식을 감지하면 덮어쓰기를 막고 원본 파일을 보존합니다.\n\n3. 백업과 복원 개선\n대시보드 배치와 사용 이력, 저장 관리 설정이 휴대 백업에 포함되며 복원 후 반영됩니다.\n\n4. 일정 창 성능 개선\n일정 카드가 많은 주간·월간 창의 크기 변경 작업을 줄였습니다.\n\n문의: kaironkit@gmail.com",
+        "English": "Hello!\nThank you for using K-MemoKit.\nThis update improves window switching and data protection.\n\n1. Window switching\nMini memos keep their selection when opened from an always-on-top main window.\n\n2. Data compatibility protection\nStorage formats from newer app versions are detected and preserved without being overwritten.\n\n3. Backup and restore\nPortable backups now include dashboard layout, usage history, and storage preferences. Restored settings are reloaded.\n\n4. Schedule window performance\nWe reduced layout work while resizing weekly and monthly windows with many schedule cards.\n\nContact: kaironkit@gmail.com",
+        "日本語": "こんにちは！\nK-MemoKitをご利用いただきありがとうございます。\nウィンドウの切り替えとデータ保護を改善しました。\n\n1. ウィンドウの切り替え\nメイン画面が常に最前面でも、ミニメモを選択した状態で開けます。\n\n2. データ互換性の保護\n新しいアプリのバージョンで作られた保存形式を検出し、上書きせずに元のファイルを保持します。\n\n3. バックアップと復元\nダッシュボードの配置、使用履歴、保存先の設定をポータブルバックアップに含め、復元後に読み込み直します。\n\n4. 予定画面の性能\n予定カードが多い週・月表示のサイズ変更時に、レイアウト処理を減らしました。\n\nお問い合わせ: kaironkit@gmail.com",
+        "Bahasa Indonesia": "Halo!\nTerima kasih telah menggunakan K-MemoKit.\nPembaruan ini meningkatkan pergantian jendela dan perlindungan data.\n\n1. Pergantian jendela\nMemo mini tetap dipilih saat dibuka dari jendela utama yang selalu di atas.\n\n2. Perlindungan kompatibilitas data\nFormat penyimpanan dari versi aplikasi yang lebih baru dideteksi dan dipertahankan tanpa ditimpa.\n\n3. Pencadangan dan pemulihan\nCadangan portabel kini mencakup tata letak dasbor, riwayat penggunaan, dan preferensi penyimpanan. Pengaturan dimuat ulang setelah dipulihkan.\n\n4. Kinerja jendela jadwal\nKami mengurangi proses tata letak saat mengubah ukuran tampilan mingguan dan bulanan dengan banyak kartu jadwal.\n\nKontak: kaironkit@gmail.com",
+        "简体中文": "您好！\n感谢您使用 K-MemoKit。\n本次更新改进了窗口切换和数据保护。\n\n1. 窗口切换\n即使主窗口始终置顶，打开便笺时也会保持便笺处于选中状态。\n\n2. 数据兼容性保护\n检测到由较新版本应用创建的存储格式时，会阻止覆盖并保留原始文件。\n\n3. 备份与还原\n便携式备份现在包含仪表板布局、使用记录和存储设置，还原后会重新加载这些设置。\n\n4. 日程窗口性能\n在调整包含大量日程卡片的周视图和月视图窗口大小时，减少了布局处理。\n\n联系邮箱：kaironkit@gmail.com",
+        "繁體中文": "您好！\n感謝您使用 K-MemoKit。\n本次更新改善了視窗切換和資料保護。\n\n1. 視窗切換\n即使主視窗一律置頂，開啟便利貼時也會保持便利貼處於選取狀態。\n\n2. 資料相容性保護\n偵測到由較新版本應用程式建立的儲存格式時，會阻止覆寫並保留原始檔案。\n\n3. 備份與還原\n可攜式備份現在包含儀表板配置、使用紀錄和儲存設定，還原後會重新載入這些設定。\n\n4. 行程視窗效能\n調整含有大量行程卡片的週檢視和月檢視視窗大小時，減少了版面配置處理。\n\n聯絡信箱：kaironkit@gmail.com",
+        "Español": "¡Hola!\nGracias por usar K-MemoKit.\nEsta actualización mejora el cambio de ventanas y la protección de datos.\n\n1. Cambio de ventanas\nLas notas pequeñas conservan la selección al abrirse desde la ventana principal, incluso si esta permanece siempre visible.\n\n2. Protección de compatibilidad de datos\nSe detectan los formatos de almacenamiento creados por versiones más recientes de la aplicación y se conservan los archivos originales sin sobrescribirlos.\n\n3. Copia de seguridad y restauración\nLas copias de seguridad portátiles ahora incluyen la distribución del panel, el historial de uso y las preferencias de almacenamiento. La configuración se vuelve a cargar al restaurarla.\n\n4. Rendimiento de la ventana de agenda\nSe ha reducido el trabajo de diseño al cambiar el tamaño de las vistas semanales y mensuales con muchas tarjetas de eventos.\n\nContacto: kaironkit@gmail.com",
+        "Português (Brasil)": "Olá!\nObrigado por usar o K-MemoKit.\nEsta atualização melhora a alternância entre janelas e a proteção de dados.\n\n1. Alternância entre janelas\nAs notas pequenas mantêm a seleção ao serem abertas a partir da janela principal, mesmo quando ela está sempre visível.\n\n2. Proteção da compatibilidade de dados\nFormatos de armazenamento criados por versões mais recentes do aplicativo são detectados, e os arquivos originais são preservados sem serem sobrescritos.\n\n3. Backup e restauração\nOs backups portáteis agora incluem a disposição do painel, o histórico de uso e as preferências de armazenamento. As configurações são recarregadas após a restauração.\n\n4. Desempenho da janela de agenda\nReduzimos o processamento de layout ao redimensionar as visualizações semanais e mensais com muitos cartões de eventos.\n\nContato: kaironkit@gmail.com"
+      }
+    },
+    {
+      "version": "2.1.6.0",
+      "titles": {
+        "한국어": "K-MemoKit 2.1.6.0 업데이트 안내",
+        "English": "K-MemoKit 2.1.6.0 Update",
+        "日本語": "K-MemoKit 2.1.6.0 アップデートのお知らせ",
+        "Bahasa Indonesia": "Pembaruan K-MemoKit 2.1.6.0",
+        "简体中文": "K-MemoKit 2.1.6.0 更新说明",
+        "繁體中文": "K-MemoKit 2.1.6.0 更新說明",
+        "Español": "Actualización de K-MemoKit 2.1.6.0",
+        "Português (Brasil)": "Atualização do K-MemoKit 2.1.6.0"
+      },
+      "contents": {
+        "한국어": "",
+        "English": "",
+        "日本語": "",
+        "Bahasa Indonesia": "",
+        "简体中文": "",
+        "繁體中文": "",
+        "Español": "",
+        "Português (Brasil)": ""
+      }
+    }
+  ]
 }
