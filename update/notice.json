@@ -1,0 +1,48 @@
+{
+  "notice1": {
+    "titles": {
+      "한국어": "K-MemoKit 공지사항",
+      "English": "K-MemoKit Announcements",
+      "日本語": "K-MemoKitのお知らせ",
+      "Bahasa Indonesia": "Pengumuman K-MemoKit",
+      "简体中文": "K-MemoKit 通知",
+      "繁體中文": "K-MemoKit 通知",
+      "Español": "Anuncios de K-MemoKit",
+      "Português (Brasil)": "Anúncios do K-MemoKit"
+    },
+    "contents": {
+      "한국어": [
+        "안녕하세요!",
+        "K-MemoKit을 이용해 주셔서 감사합니다."
+      ],
+      "English": [
+        "Hello!",
+        "Thank you for using K-MemoKit."
+      ],
+      "日本語": [
+        "こんにちは！",
+        "K-MemoKitをご利用いただきありがとうございます。"
+      ],
+      "Bahasa Indonesia": [
+        "Halo!",
+        "Terima kasih telah menggunakan K-MemoKit."
+      ],
+      "简体中文": [
+        "您好！",
+        "感谢您使用 K-MemoKit。"
+      ],
+      "繁體中文": [
+        "您好！",
+        "感謝您使用 K-MemoKit。"
+      ],
+      "Español": [
+        "¡Hola!",
+        "Gracias por usar K-MemoKit."
+      ],
+      "Português (Brasil)": [
+        "Olá!",
+        "Obrigado por usar o K-MemoKit."
+      ]
+    }
+  }
+}
