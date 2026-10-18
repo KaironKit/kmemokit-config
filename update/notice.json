@@ -1,6 +1,6 @@
 {
   "notice1": {
-    "enabled": true,
+    "enabled": false,
     "titles": {
       "한국어": "K-MemoKit 공지사항",
       "English": "K-MemoKit Announcements",
