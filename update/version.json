@@ -2,6 +2,7 @@
   "versions": [
     {
       "version": "2.1.5.0",
+      "enabled": true,
       "titles": {
         "한국어": "K-MemoKit 2.1.5.0 업데이트 안내",
         "English": "K-MemoKit 2.1.5.0 Update",
@@ -169,6 +170,7 @@
     },
     {
       "version": "2.1.6.0",
+      "enabled": true,
       "titles": {
         "한국어": "K-MemoKit 2.1.6.0 업데이트 안내",
         "English": "K-MemoKit 2.1.6.0 Update",
